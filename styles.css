@@ -1,0 +1,77 @@
+:root {
+  --ink: #17202b;
+  --muted: #66717f;
+  --blue: #2776d2;
+  --blue-dark: #1d5db0;
+  --line: #e4e8ed;
+  --surface: #f5f7f9;
+  --white: #fff;
+  --max: 1120px;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; color: var(--ink); background: var(--white); font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", sans-serif; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+a { color: inherit; }
+.skip-link { position: absolute; left: -999px; top: 12px; z-index: 5; padding: 8px 12px; background: var(--ink); color: white; border-radius: 8px; }
+.skip-link:focus { left: 12px; }
+:focus-visible { outline: 3px solid #78b4ff; outline-offset: 4px; }
+.site-header { max-width: var(--max); margin: auto; padding: 22px 28px; display: flex; justify-content: space-between; align-items: center; }
+.brand { text-decoration: none; font-weight: 700; letter-spacing: -.03em; font-size: 1.25rem; }
+.nav { display: flex; gap: 28px; color: var(--muted); font-size: .92rem; }
+.nav a { text-decoration: none; }
+.nav a:hover { color: var(--ink); }
+.wrap { max-width: var(--max); margin: auto; padding: 0 28px; }
+.hero { padding: 104px 0 92px; text-align: center; }
+.eyebrow { color: var(--blue); font-size: .78rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
+h1, h2, h3 { letter-spacing: -.045em; line-height: 1.12; margin: 0; }
+h1 { max-width: 780px; margin: 18px auto 22px; font-size: clamp(2.8rem, 7vw, 5.7rem); font-weight: 700; }
+.lead { max-width: 600px; margin: 0 auto; color: var(--muted); font-size: clamp(1.05rem, 2vw, 1.28rem); }
+.button { display: inline-block; margin-top: 30px; padding: 11px 18px; background: var(--ink); color: white; border-radius: 999px; text-decoration: none; font-weight: 600; font-size: .92rem; }
+.button:hover { background: #2c3a4a; }
+.gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; padding: 0 0 116px; }
+.gallery figure { margin: 0; overflow: hidden; border-radius: 16px; background: var(--surface); box-shadow: 0 14px 36px rgba(27, 42, 58, .09); }
+.gallery img { display: block; width: 100%; height: auto; }
+.section { padding: 94px 0; border-top: 1px solid var(--line); }
+.section-heading { max-width: 630px; margin-bottom: 46px; }
+.section h2 { font-size: clamp(2rem, 4vw, 3.2rem); }
+.section-heading p { color: var(--muted); margin: 16px 0 0; font-size: 1.08rem; }
+.feature-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 28px; }
+.feature h3 { font-size: 1.17rem; margin-bottom: 11px; }
+.feature p { margin: 0; color: var(--muted); font-size: .97rem; }
+.pro { background: var(--surface); border-radius: 22px; padding: 44px; display: flex; justify-content: space-between; gap: 32px; align-items: center; }
+.pro h2 { font-size: 2rem; }
+.pro p { max-width: 600px; margin: 13px 0 0; color: var(--muted); }
+.format { padding: 0 0 94px; color: var(--muted); font-size: .98rem; }
+.format strong { color: var(--ink); }
+.disclaimer { padding: 26px 0; border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; }
+.site-footer { border-top: 1px solid var(--line); padding: 25px 0 38px; color: var(--muted); font-size: .88rem; }
+.footer-inner { display: flex; justify-content: space-between; gap: 20px; }
+.footer-links { display: flex; gap: 22px; }
+.footer-links a { text-decoration: none; }
+.prose { max-width: 760px; padding: 84px 28px 110px; }
+.prose h1 { text-align: left; font-size: clamp(2.5rem, 6vw, 4.5rem); margin: 0 0 18px; }
+.prose .updated { color: var(--muted); font-size: .9rem; }
+.prose section { margin-top: 48px; }
+.prose h2 { font-size: 1.45rem; margin-bottom: 14px; }
+.prose p, .prose li { color: #4f5b68; }
+.prose ul, .prose ol { padding-left: 22px; }
+.prose a { color: var(--blue-dark); }
+@media (max-width: 760px) {
+  .site-header { padding: 18px 20px; }
+  .nav { gap: 15px; font-size: .84rem; }
+  .wrap { padding: 0 20px; }
+  .hero { padding: 76px 0 64px; text-align: left; }
+  h1 { margin-left: 0; font-size: clamp(2.8rem, 14vw, 4.2rem); }
+  .lead { margin-left: 0; }
+  .gallery { grid-template-columns: 1fr; padding-bottom: 72px; gap: 18px; }
+  .section { padding: 68px 0; }
+  .feature-grid { grid-template-columns: 1fr 1fr; gap: 30px 18px; }
+  .pro { display: block; padding: 30px 24px; }
+  .pro .button { margin-top: 23px; }
+  .format { padding-bottom: 68px; }
+  .footer-inner { display: block; }
+  .footer-links { margin-top: 12px; }
+  .prose { padding: 64px 20px 82px; }
+}
+@media (max-width: 430px) { .feature-grid { grid-template-columns: 1fr; } }
