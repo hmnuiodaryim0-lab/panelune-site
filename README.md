@@ -56,7 +56,7 @@ the homepage. Website image derivatives have no location/EXIF metadata.
 `robots.txt` is included at the project path. Robots rules are only authoritative at an
 origin's root (`https://hmnuiodaryim0-lab.github.io/robots.txt`); a project site cannot
 control that origin file. No blocking robots directives are added. `sitemap.xml` contains
-only the seven real, indexable pages; the custom 404 is `noindex`.
+only real, indexable canonical pages; the custom 404 is `noindex`.
 
 Optional browser regression suite (development only): install `playwright` and
 `@axe-core/playwright` in a temporary directory, use an installed Chrome, start a local
@@ -69,3 +69,27 @@ NODE_PATH=/path/to/temporary/node_modules node tests/browser.cjs
 `SITE_URL` overrides the preview URL; `QA_OUTPUT` chooses an external directory for
 screenshots and JSON results. Covers 30 viewport/language pairs, local links/anchors,
 image decoding, axe accessibility, no-JS links, metadata, language position, and history.
+
+## SEO phase 2: guides and indexing
+
+Two complete guide families are generated from `content/guides/{locale}.json`:
+`guides/import-books/` and `guides/organize-library/`, beneath each locale's home.
+Edit source JSON and run the generator; do not hand-edit the generated guide HTML.
+The sitemap now contains 17 canonical pages (five homes, ten guides, Privacy, Support).
+Guides describe the released iPad 1.1.1 workflow; iPhone remains coming soon.
+
+`content/search-verification.json` accepts only the real content values from Google
+and Bing verification meta tags. Empty strings emit no tags. See
+[the indexing checklist](docs/seo/INDEXING-SETUP.md) before configuring anything.
+No account verification or sitemap submission is implied by this configuration.
+
+After a successful Pages deployment, run:
+
+```sh
+python3 scripts/check_live.py --output /tmp/panelune-live-check.json
+```
+
+For research, source evidence, content decisions and the 7/30/90-day monitoring plan,
+see [docs/seo/SEO-AUDIT.md](docs/seo/SEO-AUDIT.md). The guide browser suite is
+`tests/guides-browser.cjs`; it uses the same temporary Playwright/axe dependencies
+as the existing browser suite. IndexNow and tracking services are not enabled.

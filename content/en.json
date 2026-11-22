@@ -57,7 +57,7 @@
     ],
     [
       "Easy File Import",
-      "Import from Files or transfer books from your computer over local Wi-Fi."
+      "Link a folder through Files or transfer books from your computer over local Wi-Fi."
     ],
     [
       "Local-First",
@@ -77,7 +77,7 @@
   "compatibility": "File compatibility",
   "disclaimer": "Panelune does not provide or distribute books. Import only content that you have the right to use.",
   "legalNote": "Privacy and Support are available in English.",
-  "description": "Organize and read your own manga, comics, and EPUB novels with Panelune. Private library, offline reading, Wi-Fi transfer, and comfortable reading on Apple devices.",
-  "soonTitle": "Panelune — Manga, Comics & EPUB Reader",
+  "description": "Read your own EPUB novels, PDF and CBZ comics on iPad. Organize Series and Volumes, use a Private Library, and transfer books over local Wi-Fi with Panelune.",
+  "soonTitle": "Panelune — Offline Manga & EPUB Reader for iPad",
   "liveTitle": "Panelune — Manga, Comics & EPUB Reader for iPhone and iPad"
 }

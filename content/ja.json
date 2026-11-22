@@ -57,7 +57,7 @@
     ],
     [
       "簡単なファイル取り込み",
-      "「ファイル」から取り込むか、ローカルWi-Fi経由でパソコンから本を転送できます。"
+      "「ファイル」のフォルダを連携するか、同じ Wi-Fi ネットワークのパソコンから本を転送できます。"
     ],
     [
       "ローカルファースト",
@@ -77,7 +77,7 @@
   "compatibility": "対応ファイルについて",
   "disclaimer": "Paneluneは書籍を提供・配布しません。利用する権利のあるコンテンツのみ取り込んでください。",
   "legalNote": "プライバシーポリシーとサポートページは英語です。",
-  "description": "Paneluneで自分の漫画やEPUB小説を整理して読書。プライベートライブラリ、オフライン読書、Wi-Fi転送で、Apple端末での読書を快適に。",
-  "soonTitle": "Panelune — 漫画・EPUB小説リーダー",
+  "description": "手持ちの CBZ・PDF の漫画や EPUB 小説を iPad でオフライン読書。Panelune でシリーズと巻を整理し、フォルダ連携や Wi-Fi 転送で本を追加できます。",
+  "soonTitle": "Panelune — iPad の自炊漫画・EPUB ビューア",
   "liveTitle": "Panelune — iPhone・iPad向け漫画・EPUB小説リーダー"
 }

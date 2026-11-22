@@ -65,8 +65,7 @@ class StaticSiteTests(unittest.TestCase):
                     self.urls.extend(part.strip().split()[0] for part in a['srcset'].split(','))
                 if tag=='img':
                     assert a.get('alt') and a.get('width') and a.get('height') and a.get('loading')=='lazy'
-        files=[ROOT/'index.html',ROOT/'privacy.html',ROOT/'support.html',ROOT/'404.html']
-        files += [ROOT/lang/'index.html' for lang in ('zh-Hans','zh-Hant','ja','ko')]
+        files=[p for p in ROOT.rglob('*.html') if 'templates' not in p.parts]
         for file in files:
             for link in Page(file.read_text()).urls:
                 url=urlparse(link)

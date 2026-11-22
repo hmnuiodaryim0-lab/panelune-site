@@ -136,3 +136,11 @@ figcaption { margin-top: 14px; font-size: .94rem; font-weight: 600; text-align: 
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 /* Darker existing blue meets WCAG AA on the pale Pro panel as well as white. */
 .eyebrow { color: var(--blue-dark); }
+.guide-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; }
+.guide-grid a { color: var(--blue-dark); text-underline-offset: 4px; }
+.guide h1 { font-size: clamp(2rem, 5vw, 3.3rem); overflow-wrap: anywhere; }
+.guide li { margin-block: 12px; }
+.guide-toc { margin-block: 32px; padding: 12px 24px; border: 1px solid var(--line); border-radius: 12px; }
+.guide-toc h2 { margin-top: 12px; }
+.guide section { scroll-margin-top: 24px; }
+@media (max-width: 760px) { .guide-grid { grid-template-columns: 1fr; } }

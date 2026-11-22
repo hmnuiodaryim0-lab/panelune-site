@@ -1,0 +1,155 @@
+{
+  "label": "Reading guides",
+  "intro": "Bring your own books, then make the library easier to use.",
+  "baseline": "These steps describe Panelune 1.1.1 on iPad. Menu locations may differ in later versions.",
+  "contents": "On this page",
+  "next": "Keep reading",
+  "support": "Format compatibility and support (English)",
+  "import-books": {
+    "title": "Import EPUB, PDF & CBZ on iPad — Panelune Guide",
+    "heading": "Bring your books to Panelune on iPad",
+    "description": "Add EPUB novels, PDF and CBZ comics to Panelune on iPad using Wi-Fi Transfer or Files linked folders. Learn which route keeps a local copy and how to read offline.",
+    "summary": "Start with books you already own. Choose Wi-Fi Transfer for a copy in Panelune, or link a folder through Files to read files in their existing location.",
+    "sections": [
+      {
+        "id": "choose",
+        "heading": "Choose a route before importing",
+        "paragraphs": [
+          "Wi-Fi Transfer sends files from a computer to Panelune over your local network. The imported copy stays in the app’s local library.",
+          "In iPad version 1.1.1, the Files route is Link Folder, not a separate Import Files screen. A linked book remains in the selected folder; keep that folder and its files accessible."
+        ],
+        "steps": [],
+        "items": []
+      },
+      {
+        "id": "formats",
+        "heading": "Prepare complete, supported files",
+        "paragraphs": [
+          "For novels, choose a complete EPUB file. For comics, use a PDF or a CBZ/ZIP archive containing supported page images. Keep your original files as a separate backup.",
+          "RAR-based CBR is not supported by the current archive reader. Renaming .cbr to .cbz does not convert the archive. DRM-protected, encrypted or damaged files may not open; Panelune does not remove DRM."
+        ],
+        "steps": [],
+        "items": []
+      },
+      {
+        "id": "wifi",
+        "heading": "Transfer books from a computer over Wi-Fi",
+        "paragraphs": [],
+        "steps": [
+          "Connect the computer and iPad to the same trusted Wi-Fi network. Open Wi-Fi Transfer in Panelune’s sidebar and allow local-network access if prompted.",
+          "Wait for the local address to appear. Enter the full address shown in Panelune, including http:// and the port, in the computer’s browser. Do not use a screenshot’s example address.",
+          "On the transfer page, select Comics for comic files or Novels for EPUB novels. Choose files, or drop your files into the page. Keep an EPUB intact rather than selecting files from inside it.",
+          "Keep Panelune open on the Wi-Fi Transfer screen until transfer and library import finish. Check any failure messages before trying the same file again.",
+          "Use Stop Transfer when finished. Open All Comics or All Novels, choose a Series and open a Volume. The imported copy can now be read offline."
+        ],
+        "items": []
+      },
+      {
+        "id": "files",
+        "heading": "Use Files through Link Folder in 1.1.1",
+        "paragraphs": [],
+        "steps": [
+          "In the Files app, place supported books in a folder you intend to keep. Download any cloud-provider files to the iPad before relying on them offline.",
+          "Open Link Folder in Panelune’s sidebar. Choose Comics or Novels under Library, then tap Link Folder.",
+          "Select the folder in the system Files picker and confirm. Panelune scans its supported books and adds them to the selected library.",
+          "After adding files to the folder, use Rescan on the Link Folder screen. If access has been lost, use Reconnect and select the correct folder again.",
+          "Open a linked book before leaving your network to confirm it is available. Moving, renaming or deleting source files can make linked books unavailable."
+        ],
+        "items": []
+      },
+      {
+        "id": "troubleshooting",
+        "heading": "If a book does not appear",
+        "paragraphs": [],
+        "steps": [],
+        "items": [
+          "Address will not open: check both devices are on the same network and local-network permission is enabled for Panelune. Stop and restart transfer, then use the new displayed address. Guest-network isolation or a VPN can prevent local connections.",
+          "Transfer completed but import failed: check the file format, available storage and the error shown in Panelune. Try one known-good book to distinguish a file problem from a connection problem.",
+          "Folder has no books: check that it contains supported complete files and that you chose the correct Comics or Novels library. Rescan after adding files.",
+          "New Series blocked: the free version allows up to 3 Series. More Volumes can still be added to existing Series; Panelune Pro removes the Series limit."
+        ]
+      },
+      {
+        "id": "offline",
+        "heading": "What stays local",
+        "paragraphs": [
+          "Panelune does not require an account or operate a developer-hosted cloud library. Wi-Fi transfer is a local-network operation, not cloud sync. Stop the transfer service when you are done.",
+          "Imported copies can be read offline. Linked files depend on their source folder and file provider, which may need network access. Keep a separate backup; a reading library is not a backup service."
+        ],
+        "steps": [],
+        "items": []
+      }
+    ]
+  },
+  "organize-library": {
+    "title": "Organize a Local Comic Library on iPad — Panelune",
+    "heading": "Organize Series, Volumes and a Private Library",
+    "description": "Organize local comics on iPad with Panelune Series and Volumes. Fix titles and grouping, continue reading, and use device authentication for a Private Library.",
+    "summary": "A Series groups related books; each Volume is one book inside it. Use these controls to tidy an imported collection and find your next read.",
+    "sections": [
+      {
+        "id": "structure",
+        "heading": "Understand Series and Volumes",
+        "paragraphs": [
+          "Open All Comics for your comic collection or All Novels for novels. Tap a Series to see its Volumes, then open a Volume to read. Use EPUB for novels and PDF or supported CBZ/ZIP image archives for comics.",
+          "File metadata and import context influence grouping. Review the result after importing a few books, especially when filenames do not clearly identify a series or volume."
+        ],
+        "steps": [],
+        "items": []
+      },
+      {
+        "id": "organize",
+        "heading": "Correct names and grouping",
+        "paragraphs": [],
+        "steps": [
+          "Touch and hold a Series and choose Edit Series to adjust its name, reading direction or cover. Save your changes.",
+          "Inside a Series, touch and hold a Volume and choose Edit Volume to correct its display title or volume number.",
+          "If a book belongs elsewhere, use Move to Series from its context menu. Choose a compatible destination in the same library and media type, review the move, and confirm.",
+          "To combine two groups of the same kind, open a Series context menu and use Merge into Series. Review the destination and confirmation before applying."
+        ],
+        "items": []
+      },
+      {
+        "id": "continue",
+        "heading": "Return to the book you were reading",
+        "paragraphs": [
+          "Use Continue Reading on Home to reopen the recent in-progress book. A Series also provides Continue Reading for an unfinished Volume. Reading progress is kept on this device; this is not cross-device synchronization.",
+          "Use Mark as Read or Mark as Unread in a Volume’s context menu to manage its reading status. These commands change the status in your library, not the original story content."
+        ],
+        "steps": [],
+        "items": []
+      },
+      {
+        "id": "private",
+        "heading": "Put selected Series in Private Library",
+        "paragraphs": [],
+        "steps": [
+          "Open Settings, find Private Library, and tap Open Private Library. Complete the device authentication prompt.",
+          "You can choose Show in Sidebar under Access Method, or use Hidden Access by touching and holding the Panelune icon in the sidebar. Authentication is still required.",
+          "For a Series in the main library, touch and hold it and choose Move to Private Library, then authenticate when asked. To return it, unlock Private Library and use Move to Main Library."
+        ],
+        "items": []
+      },
+      {
+        "id": "privacy",
+        "heading": "Know what Private Library protects",
+        "paragraphs": [
+          "Private Library separates selected books behind device authentication, such as Face ID, Touch ID or the device passcode where available. It does not create a Panelune account or upload your books to a Panelune server.",
+          "This is an access-control feature, not a promise of a separate encrypted vault. Original copies outside Panelune, including linked source files, remain accessible wherever you stored them."
+        ],
+        "steps": [],
+        "items": []
+      },
+      {
+        "id": "storage",
+        "heading": "Manage storage without losing originals",
+        "paragraphs": [
+          "For linked books, Remove from Library removes the library entry while the original stays in Files. For an imported book, Delete Volume removes its local file from the iPad. Read the confirmation before deleting and keep your originals backed up.",
+          "The free version allows up to 3 Series while permitting additional Volumes in existing Series. Panelune Pro removes the Series limit through a one-time purchase with no subscription. Check the current regional price in the app; purchase restoration is described in Support."
+        ],
+        "steps": [],
+        "items": []
+      }
+    ]
+  }
+}

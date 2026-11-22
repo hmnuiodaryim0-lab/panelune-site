@@ -57,7 +57,7 @@
     ],
     [
       "간편한 파일 가져오기",
-      "파일 앱에서 가져오거나 로컬 Wi-Fi로 컴퓨터에서 책을 전송하세요."
+      "파일 앱의 폴더를 연결하거나 같은 Wi-Fi 네트워크의 컴퓨터에서 책을 전송하세요."
     ],
     [
       "로컬 중심",
@@ -77,7 +77,7 @@
   "compatibility": "지원 파일 안내",
   "disclaimer": "Panelune은 도서를 제공하거나 배포하지 않습니다. 이용 권한이 있는 콘텐츠만 가져오세요.",
   "legalNote": "개인정보 처리방침과 지원 페이지는 영어로 제공됩니다.",
-  "description": "Panelune으로 나의 만화와 EPUB 소설을 정리하고 읽으세요. 비공개 서재, 오프라인 읽기, Wi-Fi 전송으로 Apple 기기에서 편안하게 독서하세요.",
-  "soonTitle": "Panelune — 만화 및 EPUB 소설 리더",
+  "description": "내 EPUB 소설과 PDF·CBZ 만화를 아이패드에서 오프라인으로 읽으세요. Panelune에서 시리즈와 권을 정리하고 폴더 연결, Wi-Fi 전송, 비공개 라이브러리를 이용하세요.",
+  "soonTitle": "Panelune — 아이패드 만화책·EPUB 뷰어",
   "liveTitle": "Panelune — iPhone 및 iPad용 만화 및 EPUB 소설 리더"
 }
