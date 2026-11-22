@@ -1,0 +1,270 @@
+{
+  "checkedAtUtc": "2026-11-22T13:21:55.995859+00:00",
+  "baseUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/",
+  "pages": [
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/"
+      ],
+      "bytes": 11343,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hans/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hans/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hans/"
+      ],
+      "bytes": 11473,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hant/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hant/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hant/"
+      ],
+      "bytes": 11480,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/ja/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/ja/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/ja/"
+      ],
+      "bytes": 12533,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/ko/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/ko/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/ko/"
+      ],
+      "bytes": 12291,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/privacy.html",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/privacy.html",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/privacy.html"
+      ],
+      "bytes": 4101,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/support.html",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/support.html",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/support.html"
+      ],
+      "bytes": 9161,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/guides/import-books/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/guides/import-books/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/guides/import-books/"
+      ],
+      "bytes": 10403,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/guides/organize-library/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/guides/organize-library/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/guides/organize-library/"
+      ],
+      "bytes": 9809,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hans/guides/import-books/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hans/guides/import-books/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hans/guides/import-books/"
+      ],
+      "bytes": 10286,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hans/guides/organize-library/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hans/guides/organize-library/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hans/guides/organize-library/"
+      ],
+      "bytes": 9447,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hant/guides/import-books/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hant/guides/import-books/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hant/guides/import-books/"
+      ],
+      "bytes": 10025,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hant/guides/organize-library/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hant/guides/organize-library/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/zh-Hant/guides/organize-library/"
+      ],
+      "bytes": 9356,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/ja/guides/import-books/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/ja/guides/import-books/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/ja/guides/import-books/"
+      ],
+      "bytes": 12483,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/ja/guides/organize-library/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/ja/guides/organize-library/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/ja/guides/organize-library/"
+      ],
+      "bytes": 11125,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/ko/guides/import-books/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/ko/guides/import-books/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/ko/guides/import-books/"
+      ],
+      "bytes": 11964,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    },
+    {
+      "url": "https://hmnuiodaryim0-lab.github.io/panelune-site/ko/guides/organize-library/",
+      "status": "200",
+      "finalUrl": "https://hmnuiodaryim0-lab.github.io/panelune-site/ko/guides/organize-library/",
+      "canonical": [
+        "https://hmnuiodaryim0-lab.github.io/panelune-site/ko/guides/organize-library/"
+      ],
+      "bytes": 10874,
+      "matchesLocal": true,
+      "noindex": false,
+      "error": "",
+      "ok": true
+    }
+  ],
+  "sitemapMatchesLocal": true,
+  "originRobots": {
+    "url": "https://hmnuiodaryim0-lab.github.io/robots.txt",
+    "status": "404",
+    "body": null
+  },
+  "userAgentProbes": [
+    {
+      "agent": "Googlebot",
+      "status": "200",
+      "matchesLocal": true,
+      "ok": true
+    },
+    {
+      "agent": "bingbot",
+      "status": "200",
+      "matchesLocal": true,
+      "ok": true
+    }
+  ],
+  "excludedPaths": [
+    {
+      "path": "seo-missing-page-check",
+      "status": "404",
+      "ok": true
+    },
+    {
+      "path": "docs/seo/SEO-AUDIT.md",
+      "status": "404",
+      "ok": true
+    },
+    {
+      "path": "content/search-verification.json",
+      "status": "404",
+      "ok": true
+    },
+    {
+      "path": "scripts/build.py",
+      "status": "404",
+      "ok": true
+    }
+  ],
+  "indexingStatus": "Unknown: requires verified Google/Bing property data. User-agent probes are not real search-engine crawls."
+}

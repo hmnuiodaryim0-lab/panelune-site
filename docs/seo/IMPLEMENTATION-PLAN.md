@@ -20,6 +20,6 @@ Review focus: nested project paths; same-topic reciprocal hreflang; links withou
 - [x] Add dependency-free live audit script, docs/seo reports and 7/30/90-day checks.
 - [x] Generate; run full unittest suite, browser/axe checks across locales and viewports, mobile Lighthouse; visually inspect guides.
 - [x] Independent final review; fix substantive issues and rerun relevant/full checks.
-- [ ] Install reviewed files, commit, ordinary push main; wait for Pages and verify served HTML, sitemap, links and excluded source paths. Record receipts and remaining manual verification.
+- [x] Install reviewed files, commit, ordinary push main; wait for Pages and verify served HTML, sitemap, links and excluded source paths. Record receipts and remaining manual verification.
 
 Execution decisions: user explicitly requested direct implementation and ordinary main push, so no redundant approval gates were added. Independent review found robots whitespace normalization; treated as monitoring correctness and fixed with a failing-then-passing test. No deferred code findings remain. Account verification and indexing require authorized account data and remain manual. App binary behavior was source-checked against 1.1.1, not represented as a new device test.

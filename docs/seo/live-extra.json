@@ -1,0 +1,25 @@
+[
+  {
+    "path": "styles.css",
+    "ok": true,
+    "bytes": 8737
+  },
+  {
+    "path": "site.js",
+    "ok": true,
+    "bytes": 3813
+  },
+  {
+    "path": "google3106aad1a8a588fd.html",
+    "ok": true,
+    "bytes": 53
+  },
+  {
+    "path": "index.html",
+    "ok": true,
+    "bytes": 11343
+  },
+  {
+    "googleMetaExact": true
+  }
+]

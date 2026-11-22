@@ -1,6 +1,6 @@
 # Google / Bing 接入准备
 
-核查日期：2026-11-22。状态：**已接入用户提供的真实 Google 验证标签，待部署及用户点击验证；Bing 未配置，未提交 Sitemap，未获得后台数据。** 没有访问 Google/Bing 账户，没有添加 Analytics、Clarity、广告或 Cookie 追踪。
+核查日期：2026-11-22。状态：**用户提供的真实 Google 验证标签已上线并核验，待用户点击验证；Bing 未配置，未提交 Sitemap，未获得后台数据。** 没有访问 Google/Bing 账户，没有添加 Analytics、Clarity、广告或 Cookie 追踪。
 
 网站属性：`https://hmnuiodaryim0-lab.github.io/panelune-site/`
 
@@ -22,7 +22,7 @@ Sitemap：`https://hmnuiodaryim0-lab.github.io/panelune-site/sitemap.xml`
 
 ### 如果选择 HTML 文件
 
-只使用平台为当前属性提供的原始文件名和完整内容。确认验证界面要求的 URL 位于 `/panelune-site/` 内，才将文件放到仓库根目录；保留原样，匿名访问应返回 200。若平台要求域名根目录的文件，这个项目仓库无法发布到那里，应改用 meta 标签。不要自行编造文件名或把 HTML 内容用模板替代。本轮没有生成或上传任何验证文件。
+只使用平台为当前属性提供的原始文件名和完整内容。确认验证界面要求的 URL 位于 `/panelune-site/` 内，才将文件放到仓库根目录；保留原样，匿名访问应返回 200。若平台要求域名根目录的文件，这个项目仓库无法发布到那里，应改用 meta 标签。不要自行编造文件名或把 HTML 内容用模板替代。本轮没有自行生成验证文件；合并时发现远端已新增 `google3106aad1a8a588fd.html`，已原样保留并核验线上内容。
 
 ## Bing Webmaster Tools
 
