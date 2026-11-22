@@ -1,0 +1,8 @@
+# Preserve the existing branch/root GitHub Pages build; publish only website assets.
+exclude:
+  - content
+  - templates
+  - scripts
+  - tests
+  - docs
+  - README.md

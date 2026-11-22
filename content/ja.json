@@ -1,0 +1,83 @@
+{
+  "name": "日本語",
+  "locale": "ja_JP",
+  "nav": [
+    "機能",
+    "プライバシー",
+    "サポート"
+  ],
+  "skip": "本文へ移動",
+  "language": "言語",
+  "hero": "あなたの漫画と小説を。",
+  "soonHero": "iPadで。まもなくiPhoneでも。",
+  "liveHero": "iPhoneとiPadで。",
+  "soonBadge": "iPad版を配信中 · iPhone対応は近日予定",
+  "liveBadge": "iPhoneとiPadで配信中",
+  "lead": "漫画やEPUB小説を端末内で管理できる、プライバシーを大切にしたリーダー。蔵書を整理し、自分の端末で心地よい読書を楽しめます。",
+  "soonNote": "Panelune 1.1.1はiPad向けに配信中です。iPhone対応と読書機能の改善を含む1.2.0はAppleの審査に提出済みで、まだ配信されていません。",
+  "liveNote": "Panelune 1.2.0はiPhoneに対応し、iPhoneとiPadでより快適な読書体験をお届けします。",
+  "download": "App Storeでダウンロード",
+  "explore": "Paneluneの機能を見る",
+  "screens": "あなたのライブラリを、もっと身近に",
+  "soonPreview": "iPhone版プレビュー · 1.2.0で対応予定",
+  "livePreview": "iPhoneとiPadのために",
+  "demo": "オリジナルのデモ作品を使った、実際のPaneluneの画面です。iPadの画面は英語です。",
+  "captions": [
+    "iPadのライブラリ",
+    "iPhoneのライブラリ",
+    "漫画を読む",
+    "EPUB小説を読む",
+    "Wi-Fi転送"
+  ],
+  "alts": [
+    "シリーズ、巻、続きを読む欄を表示したiPad版Paneluneのライブラリ",
+    "オリジナルのデモ作品を表示したiPhone版Paneluneのライブラリ",
+    "オリジナル漫画のページと読書進捗の操作部を表示したiPhone版Paneluneの漫画リーダー",
+    "オリジナル小説の本文、目次、フォントの操作部を表示したiPhone版PaneluneのEPUBリーダー",
+    "デモ用のローカルアドレスを表示したiPhone版PaneluneのWi-Fi転送画面"
+  ],
+  "featuresEyebrow": "あなたの蔵書のために",
+  "featuresTitle": "くつろいで読むために、必要なものを。",
+  "features": [
+    [
+      "自分だけのライブラリ",
+      "漫画と小説をまとめて、シリーズ（Series）と巻（Volumes）ごとに整理。"
+    ],
+    [
+      "快適なEPUB読書",
+      "フォントの調整、目次、読書位置の復元で、小説をじっくり楽しめます。"
+    ],
+    [
+      "なめらかな漫画閲覧",
+      "指の動きに合わせたページめくりと、縦方向の連続スクロールを選べます。"
+    ],
+    [
+      "プライベートライブラリ",
+      "選んだ本を独立したライブラリに保存し、端末認証でアクセスを保護します。"
+    ],
+    [
+      "簡単なファイル取り込み",
+      "「ファイル」から取り込むか、ローカルWi-Fi経由でパソコンから本を転送できます。"
+    ],
+    [
+      "ローカルファースト",
+      "取り込んだ本はオフラインで読めます。アカウント登録も、開発者のクラウド書庫も不要です。"
+    ]
+  ],
+  "soonReading": "1.2.0で改善予定：EPUBの表示・組版・フォント設定、漫画のインタラクティブなページめくり、iPhoneとiPadでの読書位置の復元。",
+  "liveReading": "1.2.0で改善：EPUBの表示・組版・フォント設定、漫画のインタラクティブなページめくり、iPhoneとiPadでの読書位置の復元。",
+  "languagesTitle": "5つの言語で、自分だけのライブラリを。",
+  "languagesText": "アプリはEnglish、简体中文、繁體中文、日本語、한국어に対応しています。",
+  "proEyebrow": "もっとたくさんの本と暮らすために",
+  "proText": "無料版では最大3シリーズを作成でき、既存のシリーズには巻を追加できます。Panelune Proでシリーズ数の制限を解除できます。",
+  "proPurchase": "一度の購入で。サブスクリプションなし。",
+  "proPrice": "お住まいの地域の価格はアプリ内でご確認ください。",
+  "proLink": "購入と購入の復元",
+  "formats": "EPUB、PDF、対応する漫画アーカイブを読めます。",
+  "compatibility": "対応ファイルについて",
+  "disclaimer": "Paneluneは書籍を提供・配布しません。利用する権利のあるコンテンツのみ取り込んでください。",
+  "legalNote": "プライバシーポリシーとサポートページは英語です。",
+  "description": "Paneluneで自分の漫画やEPUB小説を整理して読書。プライベートライブラリ、オフライン読書、Wi-Fi転送で、Apple端末での読書を快適に。",
+  "soonTitle": "Panelune — 漫画・EPUB小説リーダー",
+  "liveTitle": "Panelune — iPhone・iPad向け漫画・EPUB小説リーダー"
+}

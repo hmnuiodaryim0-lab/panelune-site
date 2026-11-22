@@ -1,0 +1,83 @@
+{
+  "name": "繁體中文",
+  "locale": "zh_TW",
+  "nav": [
+    "功能",
+    "隱私",
+    "支援"
+  ],
+  "skip": "跳至正文",
+  "language": "語言",
+  "hero": "你的漫畫與小說。",
+  "soonHero": "已支援 iPad，即將來到 iPhone。",
+  "liveHero": "在 iPhone 和 iPad 上，隨心閱讀。",
+  "soonBadge": "iPad 版已上架 · 即將支援 iPhone",
+  "liveBadge": "現已支援 iPhone 和 iPad",
+  "lead": "一款重視隱私、以本機儲存為核心的漫畫與 EPUB 小說閱讀器。整理你的藏書，享受舒適閱讀，讓書籍留在自己的裝置上。",
+  "soonNote": "Panelune 1.1.1 iPad 版已上架。新增 iPhone 支援並改善閱讀體驗的 1.2.0 版已提交 Apple 審核，尚未正式推出。",
+  "liveNote": "Panelune 1.2.0 新增 iPhone 支援，為 iPhone 和 iPad 帶來更完善的閱讀體驗。",
+  "download": "在 App Store 下載",
+  "explore": "探索 Panelune",
+  "screens": "看看你的隨身書庫",
+  "soonPreview": "iPhone 版預覽 · 將隨 1.2.0 推出",
+  "livePreview": "為 iPhone 和 iPad 而設計",
+  "demo": "真實 Panelune 畫面，使用原創示範書籍。iPad 截圖為英文介面。",
+  "captions": [
+    "iPad 書庫",
+    "iPhone 書庫",
+    "漫畫閱讀",
+    "EPUB 小說閱讀",
+    "Wi-Fi 傳輸"
+  ],
+  "alts": [
+    "iPad 上的 Panelune 書庫，展示系列、冊數與繼續閱讀區域",
+    "iPhone 上的 Panelune 書庫，展示原創示範書籍",
+    "iPhone 上的 Panelune 漫畫閱讀器，展示原創漫畫頁面與閱讀進度控制項",
+    "iPhone 上的 Panelune EPUB 閱讀器，展示原創小說內文、目錄與字型控制項",
+    "iPhone 上的 Panelune Wi-Fi 傳輸畫面，顯示示範用區域網路位址"
+  ],
+  "featuresEyebrow": "為你的藏書而設計",
+  "featuresTitle": "安心坐下，讀你喜歡的書。",
+  "features": [
+    [
+      "你的個人書庫",
+      "將漫畫與小說收納在一起，依系列（Series）與冊數（Volumes）整理。"
+    ],
+    [
+      "更舒適的 EPUB 閱讀",
+      "調整字型、瀏覽目錄、恢復閱讀進度，沉浸在小說之中。"
+    ],
+    [
+      "流暢的漫畫閱讀",
+      "自由選擇互動式翻頁或連續垂直捲動。"
+    ],
+    [
+      "私人書庫",
+      "將選定書籍放入獨立的私人書庫，透過裝置認證保護存取。"
+    ],
+    [
+      "輕鬆匯入檔案",
+      "從「檔案」匯入，或透過區域網路 Wi-Fi 從電腦傳輸書籍。"
+    ],
+    [
+      "本機優先",
+      "匯入後即可離線閱讀，無需帳號，也無需開發者託管的雲端書庫。"
+    ]
+  ],
+  "soonReading": "1.2.0 即將帶來：更完善的 EPUB 顯示、排版與字型設定，更流暢的漫畫互動式翻頁，以及 iPhone 和 iPad 上更可靠的閱讀進度恢復。",
+  "liveReading": "1.2.0 帶來更完善的 EPUB 顯示、排版與字型設定，更流暢的漫畫互動式翻頁，以及 iPhone 和 iPad 上更可靠的閱讀進度恢復。",
+  "languagesTitle": "五種語言，同一個個人書庫。",
+  "languagesText": "App 支援 English、简体中文、繁體中文、日本語和 한국어。",
+  "proEyebrow": "為更多藏書留出空間",
+  "proText": "免費版最多建立 3 個系列，現有系列可繼續新增冊數。Panelune Pro 解除系列數量限制。",
+  "proPurchase": "一次性購買，無需訂閱。",
+  "proPrice": "實際價格以 App 內所在地區顯示為準。",
+  "proLink": "購買與回復購買項目",
+  "formats": "閱讀 EPUB、PDF 及支援的漫畫壓縮檔。",
+  "compatibility": "檔案相容性說明",
+  "disclaimer": "Panelune 不提供或散布書籍。請僅匯入你有權使用的內容。",
+  "legalNote": "隱私權政策與支援頁面為英文。",
+  "description": "使用 Panelune 整理並閱讀自己的漫畫與 EPUB 小說。支援私人書庫、離線閱讀、Wi-Fi 傳輸，在 Apple 裝置上舒適閱讀。",
+  "soonTitle": "Panelune — 漫畫與 EPUB 小說閱讀器",
+  "liveTitle": "Panelune — 適用於 iPhone 和 iPad 的漫畫與 EPUB 小說閱讀器"
+}

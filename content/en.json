@@ -1,0 +1,83 @@
+{
+  "name": "English",
+  "locale": "en_US",
+  "nav": [
+    "Features",
+    "Privacy",
+    "Support"
+  ],
+  "skip": "Skip to content",
+  "language": "Language",
+  "hero": "Your comics and novels.",
+  "soonHero": "On iPad. Coming to iPhone.",
+  "liveHero": "On iPhone and iPad.",
+  "soonBadge": "Available on iPad · iPhone support coming soon",
+  "liveBadge": "Available now on iPhone and iPad",
+  "lead": "A private, local-first reader for manga, comics, and EPUB novels. Organize your collection, enjoy comfortable reading, and keep your books on your device.",
+  "soonNote": "Panelune 1.1.1 is available for iPad. Version 1.2.0, with iPhone support and reading improvements, has been submitted for Apple review and is not yet available.",
+  "liveNote": "Panelune 1.2.0 brings iPhone support and an improved reading experience to iPhone and iPad.",
+  "download": "Download on the App Store",
+  "explore": "Explore Panelune",
+  "screens": "A closer look at your library",
+  "soonPreview": "iPhone preview · Coming in 1.2.0",
+  "livePreview": "Made for iPhone and iPad",
+  "demo": "Real Panelune screens with original demo books. iPad screenshot shown in English.",
+  "captions": [
+    "Your iPad library",
+    "Your iPhone library",
+    "Manga reading",
+    "EPUB novel reading",
+    "Wi-Fi Transfer"
+  ],
+  "alts": [
+    "Panelune on iPad with series, volumes and a Continue Reading section",
+    "Panelune on iPhone showing the library and original demo books",
+    "Panelune iPhone manga reader with an original comic page and page progress controls",
+    "Panelune iPhone EPUB reader with original novel text, contents and font controls",
+    "Panelune iPhone Wi-Fi Transfer screen with a demonstration local address"
+  ],
+  "featuresEyebrow": "Made for your library",
+  "featuresTitle": "Everything you need to settle in and read.",
+  "features": [
+    [
+      "Your Personal Library",
+      "Keep manga, comics, and novels together, organized into Series and Volumes."
+    ],
+    [
+      "Better EPUB Reading",
+      "Settle into novels with adjustable fonts, a table of contents, and reading progress restoration."
+    ],
+    [
+      "Smooth Manga Reading",
+      "Choose interactive page turns or continuous vertical scrolling for your comics."
+    ],
+    [
+      "Private Library",
+      "Keep selected books in a separate library protected by device authentication."
+    ],
+    [
+      "Easy File Import",
+      "Import from Files or transfer books from your computer over local Wi-Fi."
+    ],
+    [
+      "Local-First",
+      "Read imported books offline. No account required. No developer-hosted cloud library."
+    ]
+  ],
+  "soonReading": "Coming in 1.2.0: improved EPUB rendering, typography and font settings, smoother interactive comic page turns, and more reliable reading progress restoration on iPhone and iPad.",
+  "liveReading": "In 1.2.0: improved EPUB rendering, typography and font settings, smoother interactive comic page turns, and more reliable reading progress restoration on iPhone and iPad.",
+  "languagesTitle": "Five languages. One personal library.",
+  "languagesText": "The app supports English, Simplified Chinese, Traditional Chinese, Japanese, and Korean.",
+  "proEyebrow": "For readers with more to keep",
+  "proText": "Free: create up to 3 Series and keep adding Volumes to existing Series. Panelune Pro removes the Series limit.",
+  "proPurchase": "One-time purchase. No subscription.",
+  "proPrice": "See your local price in the app.",
+  "proLink": "Purchases & restoration",
+  "formats": "Read EPUB, PDF, and supported comic archives.",
+  "compatibility": "File compatibility",
+  "disclaimer": "Panelune does not provide or distribute books. Import only content that you have the right to use.",
+  "legalNote": "Privacy and Support are available in English.",
+  "description": "Organize and read your own manga, comics, and EPUB novels with Panelune. Private library, offline reading, Wi-Fi transfer, and comfortable reading on Apple devices.",
+  "soonTitle": "Panelune — Manga, Comics & EPUB Reader",
+  "liveTitle": "Panelune — Manga, Comics & EPUB Reader for iPhone and iPad"
+}

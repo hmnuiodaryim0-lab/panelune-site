@@ -1,0 +1,83 @@
+{
+  "name": "한국어",
+  "locale": "ko_KR",
+  "nav": [
+    "기능",
+    "개인정보",
+    "지원"
+  ],
+  "skip": "본문으로 이동",
+  "language": "언어",
+  "hero": "나의 만화와 소설.",
+  "soonHero": "지금은 iPad에서, 곧 iPhone에서도.",
+  "liveHero": "iPhone과 iPad에서.",
+  "soonBadge": "iPad에서 이용 가능 · iPhone 지원 예정",
+  "liveBadge": "이제 iPhone과 iPad에서 이용 가능",
+  "lead": "만화와 EPUB 소설을 위한, 개인정보를 존중하는 로컬 중심 리더입니다. 소장 도서를 정리하고 편안하게 읽으세요. 책은 내 기기에 보관됩니다.",
+  "soonNote": "Panelune 1.1.1은 iPad용으로 출시되었습니다. iPhone 지원과 읽기 개선이 포함된 1.2.0은 Apple 심사에 제출되었으며, 아직 출시되지 않았습니다.",
+  "liveNote": "Panelune 1.2.0은 iPhone을 지원하며 iPhone과 iPad에서 더욱 편안한 읽기 경험을 제공합니다.",
+  "download": "App Store에서 다운로드",
+  "explore": "Panelune 살펴보기",
+  "screens": "나만의 서재를 가까이",
+  "soonPreview": "iPhone 미리 보기 · 1.2.0에서 지원 예정",
+  "livePreview": "iPhone과 iPad를 위해",
+  "demo": "직접 만든 데모 도서를 사용한 실제 Panelune 화면입니다. iPad 스크린샷은 영어로 표시됩니다.",
+  "captions": [
+    "iPad 서재",
+    "iPhone 서재",
+    "만화 읽기",
+    "EPUB 소설 읽기",
+    "Wi-Fi 전송"
+  ],
+  "alts": [
+    "시리즈, 권, 이어 읽기 영역을 표시한 iPad용 Panelune 서재",
+    "직접 만든 데모 도서를 표시한 iPhone용 Panelune 서재",
+    "직접 만든 만화 페이지와 읽기 진행 컨트롤을 표시한 iPhone용 Panelune 만화 리더",
+    "직접 작성한 소설 본문, 목차, 글꼴 컨트롤을 표시한 iPhone용 Panelune EPUB 리더",
+    "데모용 로컬 주소를 표시한 iPhone용 Panelune Wi-Fi 전송 화면"
+  ],
+  "featuresEyebrow": "나의 책을 위한 공간",
+  "featuresTitle": "편안히 앉아 읽는 데 필요한 모든 것.",
+  "features": [
+    [
+      "나만의 서재",
+      "만화와 소설을 한곳에 모아 시리즈(Series)와 권(Volumes)으로 정리하세요."
+    ],
+    [
+      "편안한 EPUB 읽기",
+      "글꼴 조절, 목차, 읽기 위치 복원으로 소설에 몰입하세요."
+    ],
+    [
+      "부드러운 만화 읽기",
+      "손짓에 반응하는 페이지 넘기기 또는 연속 세로 스크롤을 선택하세요."
+    ],
+    [
+      "비공개 서재",
+      "선택한 책을 별도의 서재에 보관하고 기기 인증으로 접근을 보호합니다."
+    ],
+    [
+      "간편한 파일 가져오기",
+      "파일 앱에서 가져오거나 로컬 Wi-Fi로 컴퓨터에서 책을 전송하세요."
+    ],
+    [
+      "로컬 중심",
+      "가져온 책은 오프라인으로 읽을 수 있습니다. 계정이나 개발자가 운영하는 클라우드 서재가 필요하지 않습니다."
+    ]
+  ],
+  "soonReading": "1.2.0에서 개선 예정: EPUB 표시와 조판, 글꼴 설정, 만화의 인터랙티브 페이지 넘기기, iPhone 및 iPad에서의 읽기 위치 복원.",
+  "liveReading": "1.2.0에서 개선: EPUB 표시와 조판, 글꼴 설정, 만화의 인터랙티브 페이지 넘기기, iPhone 및 iPad에서의 읽기 위치 복원.",
+  "languagesTitle": "다섯 가지 언어, 하나의 나만의 서재.",
+  "languagesText": "앱은 English, 简体中文, 繁體中文, 日本語, 한국어를 지원합니다.",
+  "proEyebrow": "더 많은 책을 소장하고 싶다면",
+  "proText": "무료 버전은 최대 3개의 시리즈를 만들 수 있으며 기존 시리즈에는 계속 권을 추가할 수 있습니다. Panelune Pro는 시리즈 수 제한을 해제합니다.",
+  "proPurchase": "한 번 구매로 이용하세요. 구독은 없습니다.",
+  "proPrice": "지역별 가격은 앱에서 확인하세요.",
+  "proLink": "구매 및 구매 복원",
+  "formats": "EPUB, PDF 및 지원되는 만화 압축 파일을 읽으세요.",
+  "compatibility": "지원 파일 안내",
+  "disclaimer": "Panelune은 도서를 제공하거나 배포하지 않습니다. 이용 권한이 있는 콘텐츠만 가져오세요.",
+  "legalNote": "개인정보 처리방침과 지원 페이지는 영어로 제공됩니다.",
+  "description": "Panelune으로 나의 만화와 EPUB 소설을 정리하고 읽으세요. 비공개 서재, 오프라인 읽기, Wi-Fi 전송으로 Apple 기기에서 편안하게 독서하세요.",
+  "soonTitle": "Panelune — 만화 및 EPUB 소설 리더",
+  "liveTitle": "Panelune — iPhone 및 iPad용 만화 및 EPUB 소설 리더"
+}
