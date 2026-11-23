@@ -8,7 +8,7 @@ No framework, runtime packages, external fonts, analytics, or new hosting servic
 `content/site.json` is the single source of truth for release availability:
 
 ```json
-"iphoneReleaseStatus": "coming-soon"
+"iphoneReleaseStatus": "available"
 ```
 
 Five complete homepages are generated from `content/{en,zh-Hans,zh-Hant,ja,ko}.json`.
@@ -29,6 +29,11 @@ publication using `_config.yml`.
 
 ## Release 1.2.0
 
+Verified live on 2026-11-23 through [Apple’s US catalog](https://itunes.apple.com/lookup?id=6807220447&country=us):
+Panelune (`com.panelune.app`) version **1.2.0**, released at
+`2026-11-22T18:22:39Z` (2026-11-23 02:22:39 Asia/Shanghai), with iPhone and iPad support.
+The site now uses `available`.
+
 Only after Apple approval **and actual App Store availability**:
 
 1. Change `iphoneReleaseStatus` to `available` in `content/site.json`.
@@ -43,7 +48,7 @@ switching: approval with manual release pending does not mean the app is downloa
 
 The primary download URL is the requested region-neutral App Store ID link. During
 2026-11-22 verification it redirected to the CN storefront homepage on the local network;
-Apple's US catalog verified Panelune 1.1.1. Support includes the verified US product URL
+Apple's US catalog verified Panelune 1.1.1 at that time and 1.2.0 on 2026-11-23. Support includes the verified US product URL
 as a fallback. Storefront availability is controlled by Apple/the app's distribution settings.
 
 ## Assets and checks
@@ -76,7 +81,8 @@ Two complete guide families are generated from `content/guides/{locale}.json`:
 `guides/import-books/` and `guides/organize-library/`, beneath each locale's home.
 Edit source JSON and run the generator; do not hand-edit the generated guide HTML.
 The sitemap now contains 17 canonical pages (five homes, ten guides, Privacy, Support).
-Guides describe the released iPad 1.1.1 workflow; iPhone remains coming soon.
+Guides retain their explicitly labeled iPad 1.1.1 workflow baseline; their release
+notes now reflect the available iPhone and iPad 1.2.0 release.
 
 `content/search-verification.json` accepts only the real content values from Google
 and Bing verification meta tags. Empty strings emit no tags. See

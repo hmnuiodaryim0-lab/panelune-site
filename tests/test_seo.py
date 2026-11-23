@@ -110,12 +110,26 @@ class SeoTests(unittest.TestCase):
         self.assertEqual(p.meta.get('msvalidate.01'), 'unit-test-bing')
         # Test values only in temporary output, never deployed content.
 
+    def test_homepage_descriptions_follow_release_state(self):
+        for status in ('coming-soon', 'available'):
+            build.build(self.root, status=status)
+            for lang in LANGS:
+                with self.subTest(status=status, lang=lang):
+                    p = Page((self.root/('' if lang == 'en' else lang)/'index.html').read_text())
+                    descriptions = [p.meta[key] for key in ('description', 'og:description', 'twitter:description')]
+                    descriptions.append(p.scripts[0]['description'])
+                    self.assertTrue(all(text == descriptions[0] for text in descriptions))
+                    for text in descriptions:
+                        self.assertEqual('iPhone' in text, status == 'available')
+                    if status == 'coming-soon':
+                        self.assertEqual(descriptions[0], build.read(lang)['description'])
+
     def test_current_release_is_preserved(self):
         config = json.loads((ROOT/'content/site.json').read_text())
-        self.assertEqual(config['iphoneReleaseStatus'], 'coming-soon')
+        self.assertEqual(config['iphoneReleaseStatus'], 'available')
         for lang in LANGS:
             p = Page((self.root/('' if lang=='en' else lang)/'index.html').read_text())
-            self.assertEqual(p.scripts[0]['softwareVersion'], '1.1.1')
-            self.assertEqual(p.scripts[0]['availableOnDevice'], ['iPad'])
+            self.assertEqual(p.scripts[0]['softwareVersion'], '1.2.0')
+            self.assertEqual(p.scripts[0]['availableOnDevice'], ['iPhone', 'iPad'])
 
 if __name__ == '__main__': unittest.main()
